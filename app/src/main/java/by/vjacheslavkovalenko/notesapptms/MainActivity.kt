@@ -18,3 +18,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+//Commit N3. Add Screen 31. And all is working.
+//Commit N4. Add Screen 36. Add transitions. And all is working.
+//Commit N5. For test.
+//Commit N6. For me. Draft!
+//Commit N7. For check. Homework No. 16.
+//Commit N8. New Branch for check. Homework No. 16.
